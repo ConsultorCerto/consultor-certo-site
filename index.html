@@ -296,7 +296,7 @@
     facebook: "https://www.facebook.com/oconsultorcerto",
     instagram: "https://www.instagram.com/oconsultorcerto",
     atualizadoEm: "18/11/2026",
-    proximaAtualizacao: "03/12/2026"
+    proximaAtualizacao: "23/11/2026"
   };
 </script>
 
@@ -462,7 +462,7 @@
   <section class="block" id="noticias">
     <div class="wrap">
       <div class="head">
-        <div><div class="eyebrow">Atualizado a cada 15 dias</div><h2>Notícias da saúde suplementar</h2></div>
+        <div><div class="eyebrow">Atualizado toda semana</div><h2>Notícias da saúde suplementar</h2></div>
         <p id="updInfo"></p>
       </div>
       <div class="filters" id="filters"></div>
@@ -529,7 +529,7 @@
     <div class="cols">
       <div>
         <a href="#topo" class="logo" style="margin-bottom:10px"><img src="img/logo.png" alt=""><span class="brand">Consultor <b>Certo</b></span></a>
-        <p>Portal de informação sobre saúde suplementar mantido por consultor independente. Receba o resumo quinzenal do mercado:</p>
+        <p>Portal de informação sobre saúde suplementar mantido por consultor independente. Receba o resumo semanal do mercado:</p>
         <form class="nl" id="nlForm"><input type="email" id="nlEmail" placeholder="Seu e-mail" required><button class="btn btn-wa" type="submit">Assinar</button></form>
         <div id="nlMsg"></div>
         <div class="social" data-social></div>
@@ -558,7 +558,7 @@
 </a>
 
 <!-- =========================================================
-     CONTEÚDO EDITORIAL — atualizado a cada 15 dias
+     CONTEÚDO EDITORIAL — atualizado toda semana
      ========================================================= -->
 <script>
 const STATS = [
@@ -853,7 +853,7 @@ const FAQ = [
     e.preventDefault();
     const em = $("#nlEmail").value.trim();
     if(!em) return;
-    const url = waURL(`Olá! Quero receber o resumo quinzenal do ${CONFIG.marca}. Meu e-mail: ${em}`);
+    const url = waURL(`Olá! Quero receber o resumo semanal do ${CONFIG.marca}. Meu e-mail: ${em}`);
     $("#nlMsg").innerHTML = `Para confirmar a inscrição, <a href="${url}" target="_blank" rel="noopener">envie seu e-mail pelo WhatsApp</a>.`;
   });
 })();
