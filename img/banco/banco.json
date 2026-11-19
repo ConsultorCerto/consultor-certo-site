@@ -1,0 +1,317 @@
+[
+ {
+  "arquivo": "img/banco/post-pronto-01.jpg",
+  "categoria": "post-pronto",
+  "descricao": "Post pronto: casal de idosos dançando, \"Melhor ter e não precisar\"",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/post-pronto-02.jpg",
+  "categoria": "post-pronto",
+  "descricao": "Post pronto: família com filhos, \"Esteja preparado para todos os momentos\"",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/criancas-01.jpg",
+  "categoria": "criancas",
+  "descricao": "Crianças sorrindo em roda, vista de baixo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/criancas-02.jpg",
+  "categoria": "criancas",
+  "descricao": "Silhueta de crianças pulando ao pôr do sol",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/criancas-03.jpg",
+  "categoria": "criancas",
+  "descricao": "Crianças correndo no parque com balões",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/criancas-04.jpg",
+  "categoria": "criancas",
+  "descricao": "Duas meninas abraçadas sorrindo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/criancas-05.jpg",
+  "categoria": "criancas",
+  "descricao": "Crianças deitadas em tapete colorido",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-01.jpg",
+  "categoria": "idosos",
+  "descricao": "Casal de idosos sentado em banco no parque, de costas",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-02.jpg",
+  "categoria": "idosos",
+  "descricao": "Casal de idosos sorrindo, rosto colado",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-03.jpg",
+  "categoria": "idosos",
+  "descricao": "Avós com a neta no parque",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-04.jpg",
+  "categoria": "idosos",
+  "descricao": "Idoso de barba branca alegre, braços abertos",
+  "tamanho": [
+   1080,
+   769
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-05.jpg",
+  "categoria": "idosos",
+  "descricao": "Idosa com flor rosa no rosto",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-06.jpg",
+  "categoria": "idosos",
+  "descricao": "Idoso ao telefone em frente ao notebook",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-07.jpg",
+  "categoria": "idosos",
+  "descricao": "Idoso sorridente segurando vaso de flores",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-08.jpg",
+  "categoria": "idosos",
+  "descricao": "Idoso com gato no colo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-09.jpg",
+  "categoria": "idosos",
+  "descricao": "Idosa com cachorro no colo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-10.jpg",
+  "categoria": "idosos",
+  "descricao": "Idosa sorridente com gato no colo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/idosos-11.jpg",
+  "categoria": "idosos",
+  "descricao": "Idoso no banco com cachorro e gato",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-01.jpg",
+  "categoria": "familia",
+  "descricao": "Pais e filha deitados no chão sorrindo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-02.jpg",
+  "categoria": "familia",
+  "descricao": "Silhueta de família de mãos dadas ao pôr do sol",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-03.jpg",
+  "categoria": "familia",
+  "descricao": "Família com três filhos sentada na grama",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-04.jpg",
+  "categoria": "familia",
+  "descricao": "Casal com filho nos ombros, céu azul",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-05.jpg",
+  "categoria": "familia",
+  "descricao": "Casal com bebê recém-nascido",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-06.jpg",
+  "categoria": "familia",
+  "descricao": "Mãe com bebê no colo",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-07.jpg",
+  "categoria": "familia",
+  "descricao": "Família de três gerações sentada no sofá",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-08.jpg",
+  "categoria": "familia",
+  "descricao": "Pai com filha nos ombros, braços abertos",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-09.jpg",
+  "categoria": "familia",
+  "descricao": "Mãe e duas filhas abraçadas",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/familia-10.jpg",
+  "categoria": "familia",
+  "descricao": "Pais com filhos nas costas, ao ar livre",
+  "tamanho": [
+   1080,
+   718
+  ]
+ },
+ {
+  "arquivo": "img/banco/natal-01.jpg",
+  "categoria": "natal",
+  "descricao": "Família reunida em frente à árvore de Natal",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/natal-02.jpg",
+  "categoria": "natal",
+  "descricao": "Família de várias gerações na sala decorada de Natal",
+  "tamanho": [
+   1080,
+   737
+  ]
+ },
+ {
+  "arquivo": "img/banco/natal-03.jpg",
+  "categoria": "natal",
+  "descricao": "Pai e filho decorando a árvore de Natal",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/natal-04.jpg",
+  "categoria": "natal",
+  "descricao": "Família lendo livro de pijama perto da árvore de Natal",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/ano-novo-01.jpg",
+  "categoria": "ano-novo",
+  "descricao": "Fogos de artifício dourados",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/ano-novo-02.jpg",
+  "categoria": "ano-novo",
+  "descricao": "Taças de champanhe e presente dourado",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ },
+ {
+  "arquivo": "img/banco/ano-novo-03.jpg",
+  "categoria": "ano-novo",
+  "descricao": "Número 2027 dourado em 3D, fundo branco",
+  "tamanho": [
+   1080,
+   1080
+  ]
+ }
+]
